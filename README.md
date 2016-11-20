@@ -30,5 +30,9 @@
  2. C:\Users\用户名\AppData\Local\微信web开发者工具\User Data\WeappVendor下的WAService.js
  
  修改好的WAService.js文件在refile文件夹中
+ 
+ 不支持手机预览
+ 
+ 
 
 
